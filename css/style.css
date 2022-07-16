@@ -1,0 +1,35 @@
+div{
+    max-width: 50%;
+    max-height: 20%;
+    background-image: linear-gradient(rgb(214, 213, 216), white);
+    border:solid black 1px ;
+    padding: 1%  1% 2% 1%;
+}
+h1, h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    width: 50%;
+}
+h2{
+    font-size: 20px;
+}
+article, a{
+    font-family: 'Raleway', sans-serif;
+    width: auto;
+    max-height: 70%;
+    max-width: 70%;
+}
+a:link{
+    text-decoration: none;
+
+}
+img{
+    height: auto;
+    width: 20%;
+    float: right;
+
+}
+address{
+    padding-top: 2%;
+    font-family: 'Raleway', sans-serif;
+}
